@@ -12,5 +12,5 @@
 
 > 💻 A newcomer&&enthusiast in the computer field.
 
-> ❔ Somgthing else will happen in my life...... 
+> ❔ Somgthing interesting will happen in my life...... 
 
