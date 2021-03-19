@@ -4,6 +4,10 @@
 
 ### Hello，Bush！😄
 
+🎓 An Undergraduate at a regular university.
+
+💻 A newcomer and enthusiast in the computer field.
+
 🐼 A man who wants to go to Pandaria.  
 
 
