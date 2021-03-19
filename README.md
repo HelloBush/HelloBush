@@ -2,6 +2,7 @@
 
 ### Hello，Bush！ 👋
 
-![For Pandaria!](https://user-images.githubusercontent.com/66152079/111751024-ef0a4400-88ce-11eb-96a7-4e8190f0f9c3.jpg)
+![ForPandaria](https://user-images.githubusercontent.com/66152079/111751252-3a245700-88cf-11eb-85c8-d666f0f749bd.jpg)
+
 
 
