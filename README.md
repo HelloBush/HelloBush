@@ -6,18 +6,11 @@
 
 > 🎓 An Undergraduate at a regular university.
 
-> 💻 A newcomer&&enthusiast in the computer field.
+> 🐼 A man who wants to go to Pandaria.  
 
 > 👔 A mild obsessive-compulsive disorder.
 
-> 🐼 A man who wants to go to Pandaria.  
+> 💻 A newcomer&&enthusiast in the computer field.
 
-
-```mermaid
-graph LR
-A[生活] -- 编码 --> B((Bug))
-A --> C(目标)
-B --> D{生活}
-C --> D
-```
+> ❔ Somgthing else will happen in my life...... 
 
