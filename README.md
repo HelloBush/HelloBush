@@ -12,7 +12,14 @@
 
 🐼 A man who wants to go to Pandaria.  
 
-
+while(alive)
+{
+  coding();
+  if(error)
+    {
+      debug();
+    }
+}
 
 
 
