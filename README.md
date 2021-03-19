@@ -12,12 +12,5 @@
 
 🐼 A man who wants to go to Pandaria.  
 
+> 引用文本
 
-#### while(alive)
-#### {
-####  coding();
-####  if(error)
-####    {
-####      debug();
-####    }
-#### }
