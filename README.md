@@ -6,11 +6,12 @@
 
 > 🎓 An Undergraduate at a regular university.
 
-> 💻 A newcomer and enthusiast in the computer field.
+> 💻 A newcomer&&enthusiast in the computer field.
 
 > 👔 A mild obsessive-compulsive disorder.
 
 > 🐼 A man who wants to go to Pandaria.  
+
 
 ```mermaid
 graph LR
