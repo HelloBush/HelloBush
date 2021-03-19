@@ -4,13 +4,19 @@
 
 ### Hello，Bush！😄
 
-🎓 An Undergraduate at a regular university.
+> 🎓 An Undergraduate at a regular university.
 
-💻 A newcomer and enthusiast in the computer field.
+> 💻 A newcomer and enthusiast in the computer field.
 
-👔 A mild obsessive-compulsive disorder.
+> 👔 A mild obsessive-compulsive disorder.
 
-🐼 A man who wants to go to Pandaria.  
+> 🐼 A man who wants to go to Pandaria.  
 
-> 引用文本
+```mermaid
+graph LR
+A[生活] -- 编码 --> B((Bug))
+A --> C(目标)
+B --> D{生活}
+C --> D
+```
 
