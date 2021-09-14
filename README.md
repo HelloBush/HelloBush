@@ -4,9 +4,9 @@
 
 ### Hello，Bush！😄
 
-> 🎓 An Undergraduate at a regular university.
+> 🎓 A Graduate at a regular university.
 
-> 🐼 A man who wants to go to Pandaria.  
+> 🐼 A person who wants to go to Pandaria.  
 
 > 👔 A mild obsessive-compulsive disorder.
 
