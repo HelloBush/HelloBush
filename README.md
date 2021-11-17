@@ -12,5 +12,6 @@
 > 💻 A newcomer&&enthusiast in the computer field.
 
 > ❔  To be an interesting person...... 
-<img  style="width:40%;height:10%" align="left" src="https://user-images.githubusercontent.com/66152079/142236514-a5383a51-029f-4cee-9771-fb4e48048c80.jpg"/>
+<img  style="width:40%;height:10%" align="left" src="https://user-images.githubusercontent.com/66152079/142237201-e2166969-e7a6-49b4-9c41-f447ed77e99a.jpg"/>
+
 
