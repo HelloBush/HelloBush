@@ -3,15 +3,15 @@
 
 ### Hello，Bush！
 
-> 🎓 A Graduate at a regular university.
+> 🎓 A Graduate from a regular university.
 
 > 🐼 A person who wants to go to Pandaria.  
 
-> 👔 A mild obsessive-compulsive disorder.
+> 👔 A man with mild obsessive-compulsive disorder.
 
 > 💻 A newcomer&&enthusiast in the computer field.
 
-> ❔  To be an interesting person...... 
+> ❔  To make the world a bit of difference...... 
 <img  style="width:40%;height:10%" align="left" src="https://user-images.githubusercontent.com/66152079/142237507-337bd888-8098-4793-859f-3e94d0d9d1ee.png" />
 
 
