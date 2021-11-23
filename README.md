@@ -1,5 +1,7 @@
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=HelloBush&show_icons=true&icon_color=007500&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img  style="width:50%;height:50%" align="right" src="https://user-images.githubusercontent.com/66152079/142239346-02db961e-a5f5-405c-b8b0-abc692ced7ad.png"/>
+-->
+<img  style="width:53%;height:70%" align="right" src="https://user-images.githubusercontent.com/66152079/142239346-02db961e-a5f5-405c-b8b0-abc692ced7ad.png"/>
 
 ### Hello，Bush！
 
