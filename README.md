@@ -5,7 +5,7 @@
 
 ### Hello，Bush！
 
-> 🎓 A Graduate from a regular university.
+> 🎓 A Graduate from a ordinary university.
 
 > 🐼 A person who wants to go to Pandaria.  
 
